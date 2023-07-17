@@ -1,0 +1,140 @@
+.body {
+	background-color: #F6F8F9;
+}
+/*First Header*/
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #F6F8F9;
+	z-index: 10;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 18px;
+	margin-right: 92px;
+	margin-left: 20px;
+	vertical-align: top;
+}
+.navigation {
+	display: inline-block;
+	margin-top: 20px;
+	margin-bottom: 18px;
+}
+.nav-li {
+	display: inline-block;
+	color: #343638;
+}
+.nav-home {
+	margin-right: 27px;
+	color: #343638;
+	font-weight: bold;
+	font-size: 11px;
+	vertical-align: top;
+}
+.nav-a {
+	color: #343638;
+	margin-right: 22px;
+	font-size: 11px;
+	vertical-align: top;
+}
+.nav-contact {
+	margin-right: 40px;
+	color: #343638;
+	font-size: 11px;
+	vertical-align: top;
+}
+.nav-image {
+	margin-right: 953px;
+	display: inline-block;
+	margin-top: -9px;
+	vertical-align: top;
+}
+/*First Section*/
+.div1 {
+	margin: 85px 140px 58px;
+}
+.trending {
+	font-size: 24px;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+.tranding-image {
+	position: relative;
+	display: inline-block;
+	margin-top: 40px;
+	margin-right: 40px;
+	background-color: #FFFFFF;
+}
+.text-image {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+.text-image2 {
+	color: #A6ADB4;
+	font-size: 13px;
+	font-family: Acumin Pro;
+	margin: 66px 40px;
+	width: 280px;
+	height: 38px;
+}
+/*Paragraph*/
+.happening-now {
+	font-size: 24px;
+	font-family: Helvetica;
+	font-weight: bold;
+	margin-left: 140px;
+}
+/*Second Section*/
+.happening-section {
+	margin: 40px 40px 234px 140px;
+}
+.happening1 {
+	position: relative;
+	display: inline-block;
+	margin-top: 40px;
+	margin-right: 40px;
+	width: 760px;
+	height: 900px;
+	vertical-align: top;
+}
+.happening2-image {
+	margin-top: 40px;
+}
+.happening2 {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 40px;
+	margin-right: 140px;
+	width: 360px;
+	height: 896px;
+}
+.text-image3 {
+	position: absolute;
+	font-size: 16px;
+	font-family: Helvetica;
+	font-weight: bold;
+	top: 18px;
+	left: 40px;
+	color: #FFFFFF;
+}
+.text-image4 {
+	position: absolute;
+	font-size: 16px;
+	font-family: Helvetica;
+	font-weight: bold;
+	top: 394px;
+	left: -231px;
+	color: #FFFFFF;
+}
+.happening4-image {
+	margin-top: 102px;
+	margin-bottom: 102px;
+}
